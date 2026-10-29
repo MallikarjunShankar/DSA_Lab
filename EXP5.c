@@ -1,4 +1,4 @@
-// LINKED LIST IMPLEMENTATION OF LIST
+// IMPLEMENTATION OF LINKED LIST
 
 #include <stdio.h>
 #include <stdlib.h>
